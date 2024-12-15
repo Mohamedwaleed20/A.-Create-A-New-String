@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734295143 source:c:\users\mohamed waleed\desktop\new folder\a. create a new string\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
